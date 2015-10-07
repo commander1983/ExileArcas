@@ -3,10 +3,10 @@
  * www.exilemod.com
  * © 2015 Exile Mod Team
  *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
  */
- 
+
 class CfgPatches
 {
 	class exile_server_config
@@ -132,13 +132,13 @@ class CfgBuildings
 		positions[] = {{-1.6875, -1.03906, -0.55952}, {1.73828, -1.17383, -0.55952}};
 	};
 
-	class Land_Cargo_Patrol_V2_F 
+	class Land_Cargo_Patrol_V2_F
 	{
 		table = "Military";
 		positions[] = {{-1.01953, -1.0918, -0.55952}, {1.82031, -0.695313, -0.55952}};
 	};
 
-	class Land_Cargo_Tower_V1_F 
+	class Land_Cargo_Tower_V1_F
 	{
 		table = "Military";
 		positions[] = {{-3.54785, -3.01758, 2.47987},{-3.15625, -0.837891, 5.00472},{-2.0498, -3.29883, -0.120125},{4.55957, 4.39258, -0.120125},{-4.42383, 2.45117, -0.120125},{-2.87598, 2.20898, -4.2958},{-2.88281, 4.14258, 5.00472},{0.235352, -1.19727, 5.07987},{3.58105, 4.11719, 2.47988},{1.27441, 3.17773, -8.24333},{2.50488, 0.0625, 5.00472}};
@@ -150,19 +150,19 @@ class CfgBuildings
 		positions[] = {{-2.4668, -4.10156, 5.00471}, {-2.7168, 1.0625, -0.120123}, {-2.83984, -2.95313, 2.47987}, {-3.06641, -2.66992, -0.120123}, {-3.12109, 2.42773, -4.2958}, {-3.16211, 4.51563, 5.00471}, {1.26367, 2.49609, -8.24333}, {2.25195, 4.30664, -0.120123}, {3.34766, 3.33203, 2.47987}, {3.66797, 1.8457, 5.00471}};
 	};
 
-	class Land_Cargo_Tower_V1_No2_F 
+	class Land_Cargo_Tower_V1_No2_F
 	{
 		table = "Military";
 		positions[] = {{-2.71289, 3.0957, -0.120123}, {-2.83203, 5.06445, 5.00472}, {-3.48633, 2.28906, -4.2958}, {-3.64844, -2.87891, 2.47988}, {-3.77344, -3.32617, 5.00472}, {-3.80664, -1.75977, -0.120123}, {0.0625, -0.287109, 5.07988}, {1.58984, -2.11523, -0.120123}, {2.13672, 2.20703, -8.24332}, {3.57422, 4.22461, 2.47988}, {3.75, 1.31055, 5.00472}, {4.98633, 3.90625, -0.120123}};
 	};
 
-	class Land_Cargo_Tower_V1_No3_F 
+	class Land_Cargo_Tower_V1_No3_F
 	{
 		table = "Military";
 		positions[] = {{-0.214844, -0.460938, 5.07988}, {-2.33203, -2.96094, -0.120119}, {-2.89648, -4.0625, 5.00472}, {-3.08008, -2.8125, 2.47988}, {-3.28711, 2.60352, -4.2958}, {-3.61328, 4.44141, 5.00472}, {-4.01758, 1.86133, -0.120119}, {1.54688, 2.61133, -8.24332}, {3.52734, 3.8418, 2.47988}, {3.5332, -0.386719, 5.00472}, {4.88477, 4.18945, -0.120119}};
 	};
 
-	class Land_Cargo_Tower_V1_No4_F 
+	class Land_Cargo_Tower_V1_No4_F
 	{
 		table = "Military";
 		positions[] = {{-2.68555, -3.07031, -0.120119}, {-2.93359, -4.27148, 5.00472}, {-3.22461, 4.84375, 5.00472}, {-3.6543, 1.57227, -4.2958}, {-3.70508, -3.0332, 2.47988}, {-4.26367, 0.980469, -0.120119}, {2.1543, 2.08789, -8.24332}, {3.46289, 2.25781, 2.47988}, {3.62305, 2.16797, 5.00472}, {5.10156, 4.20898, -0.120119}};
@@ -186,7 +186,7 @@ class CfgBuildings
 		positions[] = {{-2.59766, -3.14063, -0.120119}, {-2.7832, 1.94531, -4.2958}, {-2.83203, 1.58594, -0.120119}, {-3.20508, 4.62891, 5.00472}, {-3.29883, -2.90234, 5.00472}, {-3.87891, -3.11914, 2.47988}, {0.228516, -1.05273, 5.07988}, {1.65234, 2.58594, -8.24332}, {3.40039, 3.05859, 2.47988}, {4.18164, 0.246094, 5.00472}, {4.42578, 3.99805, -0.120119}};
 	};
 
-	class Land_Cargo_Tower_V2_F 
+	class Land_Cargo_Tower_V2_F
 	{
 		table = "Military";
 		positions[] = {{4.29492, 3.70508, -0.120117}, {-2.5293, -3.10742, 2.47988}, {-2.6543, 2.01172, -4.2958}, {-2.66797, -3.4707, 5.00472}, {-2.67773, 4.97461, 5.00472}, {-3.06836, 1.80273, -0.120117}, {-3.25586, -3.56445, -0.120117}, {0.611328, 0.0214844, 5.07988}, {2.46094, 1.92383, -8.24332}, {2.61328, -0.296875, 2.47988}, {3.07422, 4.14063, 2.47988}, {3.50195, 1.22656, 5.00472}};
@@ -268,7 +268,7 @@ class CfgBuildings
 		positions[] = {{0.482422, 0.65625, -0.867858}, {3.08984, -1.2832, -0.867858}};
 	};
 
-	class Land_Chapel_Small_V2_F 
+	class Land_Chapel_Small_V2_F
 	{
 		table = "CivillianLowerClass";
 		positions[] = {{0.556641, -0.966797, -0.867857}, {3.54297, 0.486328, -0.867857}};
@@ -310,13 +310,13 @@ class CfgBuildings
 		positions[] = {{1.69727, 3.04102, 0.0627024}, {4.28125, 1.1543, 0.0627022}};
 	};
 
-	class Land_i_Windmill01_F 
+	class Land_i_Windmill01_F
 	{
 		table = "CivillianLowerClass";
 		positions[] = {{-0.585938, 0.908203, -3.53162}};
 	};
 
-	class Land_d_Windmill01_F 
+	class Land_d_Windmill01_F
 	{
 		table = "CivillianLowerClass";
 		positions[] = {{-0.935547, 0.259766, -2.2985}, {-1.65039, 0.365234, 0.947132}};
@@ -340,7 +340,7 @@ class CfgBuildings
 		positions[] = {{-1.29688, 0.566406, -1.07377}, {2.27148, 1.125, -1.07377}};
 	};
 
-	class Land_cargo_house_slum_F 
+	class Land_cargo_house_slum_F
 	{
 		table = "CivillianLowerClass";
 		positions[] = {{-3.04688, -0.306641, -0.36025}};
@@ -520,55 +520,55 @@ class CfgBuildings
 		positions[] = {{-0.863281, 6.10938, -2.76158}, {-1.2168, 0.232422, -2.76158}, {-1.2832, -0.884766, 1.10984}, {-2.28516, 6.1875, 1.10975}};
 	};
 
-	class Land_i_Shop_01_V2_F 
+	class Land_i_Shop_01_V2_F
 	{
 		table = "Shop";
 		positions[] = {{-1.17969, 5.32813, -2.76158}, {-18.127, 16.7285, -2.74088}, {-2.39258, 5.51563, 1.10978}, {-2.53906, 0.253906, -2.76158}, {-2.70703, -1.4707, 1.10992}, {-24.2051, 3.65039, 1.25308}, {1.15625, 1.20313, 1.10906}};
 	};
 
-	class Land_i_Shop_01_V3_F 
+	class Land_i_Shop_01_V3_F
 	{
 		table = "Shop";
 		positions[] = {{-1.5918, 5.35156, -2.76158}, {-2.39258, -0.544922, -2.76158}, {-2.73242, -1.03906, 1.10991}, {-2.98242, 5.80664, 1.10999}, {1.66016, 1.70508, 1.10901}};
 	};
 
-	class Land_i_Shop_02_V1_F 
+	class Land_i_Shop_02_V1_F
 	{
 		table = "Shop";
 		positions[] = {{-0.824219, 1.10742, -2.67036}, {-4.04883, -3.18555, 1.2386}, {-4.43359, -1.98242, -2.69136}, {0.78125, -2.35547, -2.66928}, {2.27734, 1.0957, 1.2386}};
 	};
 
-	class Land_i_Shop_02_V2_F 
+	class Land_i_Shop_02_V2_F
 	{
 		table = "Shop";
 		positions[] = {{-0.171875, -1.43359, -2.66855}, {-2.57422, -4.19336, 1.23859}, {-4.51758, 2.74023, -2.66855}, {1.61523, 0.28125, 1.23859}};
 	};
 
-	class Land_i_Shop_02_V3_F 
+	class Land_i_Shop_02_V3_F
 	{
 		table = "Shop";
 		positions[] = {{-1.01953, 0.71875, -2.66924}, {-2.86719, -3.83594, 1.23859}, {-4.25195, 3.58789, -2.66855}, {1.56641, 0.509766, 1.23859}};
 	};
 
-	class Land_u_Shop_01_V1_F 
+	class Land_u_Shop_01_V1_F
 	{
 		table = "Shop";
 		positions[] = {{-1.14258, 1.23438, -2.88084}, {-2.32422, 3.14648, 0.9905}, {-3.31836, 5.81836, 0.990853}, {0.808594, -0.544922, 0.990474}, {2.58789, 5.81641, -2.88084}};
 	};
 
-	class Land_u_Shop_02_V1_F 
+	class Land_u_Shop_02_V1_F
 	{
 		table = "Shop";
 		positions[] = {{-3.46484, -1.625, 1.23859}, {-3.9082, 3.0957, -2.66855}, {0.751953, -3.26563, -2.66855}, {1.71484, 0.486328, 1.23859}};
 	};
 
-	class Land_Kiosk_blueking_F 
+	class Land_Kiosk_blueking_F
 	{
 		table = "Shop";
 		positions[] = {{-1.62109, 0.341797, -1.76588}, {1.36328, -0.908203, -1.76588}};
 	};
 
-	class Land_Kiosk_gyros_F 
+	class Land_Kiosk_gyros_F
 	{
 		table = "Shop";
 		positions[] = {{-1.20898, -1.07813, -1.97606}, {1.26758, -0.128906, -1.97606}};
@@ -585,7 +585,7 @@ class CfgBuildings
 	///////////////////////////////////////////////////////////////////////////
 	// TODO: "Land_Factory_Main_F"
 
-	class Land_Unfinished_Building_01_F 
+	class Land_Unfinished_Building_01_F
 	{
 		table = "Industrial";
 		positions[] = {{-0.158203, 3.50391, 1.19791}, {-2.34375, 4.20898, -2.29709}, {-2.51563, 0.337891, 1.19791}, {-3.25391, 0.0351563, -2.29709}, {2.45508, -0.144531, -2.29709}, {3.10742, -2.34766, 1.19791}};
@@ -639,7 +639,7 @@ class CfgBuildings
 		positions[] = {{-3.34375, -1.80273, -1.343}, {3.52539, -2.15625, -1.343}};
 	};
 
-	class Land_i_Shed_Ind_F 
+	class Land_i_Shed_Ind_F
 	{
 		table = "Industrial";
 		positions[] = {{-2.66797, -0.576172, -1.40977}, {-2.85547, 6.49023, -1.40977}, {-5.78906, 0.158203, -1.40977}, {14.1348, 6.31445, -1.40977}, {5.70508, 0.423828, -1.40977}, {6.49609, 6.5625, -1.40977}};
@@ -771,7 +771,7 @@ class CfgLootTables
 		halfIndex = 88;
 		maximum = 100;
 		sum = 17700;
-		items[] = 
+		items[] =
 		{
 			{2, "Exile_Item_Catfood"},
 			{4, "Exile_Item_Matches"},
@@ -1065,7 +1065,7 @@ class CfgLootTables
 		halfIndex = 50;
 		maximum = 100;
 		sum = 10000;
-		items[] = 
+		items[] =
 		{
 			{2, "Exile_Item_Catfood"},
 			{4, "Exile_Item_PlasticBottleEmpty"},
@@ -1282,7 +1282,7 @@ class CfgLootTables
 		halfIndex = 24;
 		maximum = 100;
 		sum = 4800;
-		items[] = 
+		items[] =
 		{
 			{2, "Exile_Item_Catfood"},
 			{4, "Exile_Item_Matches"},
@@ -1447,7 +1447,7 @@ class CfgLootTables
 		halfIndex = 6;
 		maximum = 100;
 		sum = 1300;
-		items[] = 
+		items[] =
 		{
 			{0.5, "Exile_Melee_Axe"},
 			{1, "Exile_Item_FuelCanisterEmpty"},
@@ -1577,7 +1577,7 @@ class CfgLootTables
 		halfIndex = 3;
 		maximum = 100;
 		sum = 700;
-		items[] = 
+		items[] =
 		{
 			{0.5, "Exile_Item_FuelCanisterEmpty"},
 			{0.9, "Exile_Item_FuelCanisterFull"},
@@ -1701,7 +1701,7 @@ class CfgLootTables
 		halfIndex = 110;
 		maximum = 100;
 		sum = 22000;
-		items[] = 
+		items[] =
 		{
 			{3, "150Rnd_93x64_Mag"},
 			{3.9, "U_B_CombatUniform_mcam_worn"},
@@ -2038,7 +2038,7 @@ class CfgLootTables
 		halfIndex = 0;
 		maximum = 100;
 		sum = 100;
-		items[] = 
+		items[] =
 		{
 			{1, "Exile_Item_InstaDoc"}
 		};
@@ -2156,7 +2156,7 @@ class CfgLootTables
 		halfIndex = 15;
 		maximum = 100;
 		sum = 3000;
-		items[] = 
+		items[] =
 		{
 			{0.8, "srifle_EBR_F"},
 			{1.6, "srifle_DMR_01_F"},
@@ -2201,12 +2201,12 @@ class CfgSettings
 	class GarbageCollector
 	{
 		/*
-		* despawnAfterMinutes defines after how many minutes (+1..5 minutes imprecision) 
+		* despawnAfterMinutes defines after how many minutes (+1..5 minutes imprecision)
 		* a corpse, vehicle wreck or dropped item should despawn.
         *
         * These things will despawn after despawnAfterMinutes time, but only
-        * if there is no player within delayDespawnIfPlayerInRange. If 
-        * forceDespawnAfterMinutes exceeded, it will not delay despawning and 
+        * if there is no player within delayDespawnIfPlayerInRange. If
+        * forceDespawnAfterMinutes exceeded, it will not delay despawning and
         * force a despawn after despawnAfterMinutes.
         *
         * despawnAfterMinutes = minutes
@@ -2246,7 +2246,7 @@ class CfgSettings
 		/**
 		* Defines the factor of respect you gain for every pop tab in revenue
 		*
-		* Default: Get 1 respect for every 10 pop tabs 
+		* Default: Get 1 respect for every 10 pop tabs
 		*/
 		tradingRespectFactor = 0.1;
 
@@ -2255,7 +2255,7 @@ class CfgSettings
 		*/
 		class Frags
 		{
-			bambi = -500;				// Bambi slayers
+			bambi = -1000;				// Bambi slayers
 			friendlyFire = -100;		// For party members
 			standard = 100;				// Normal kill
 			letItRain = 150;			// MG, also vehicle MGs
@@ -2263,12 +2263,12 @@ class CfgSettings
 			passenger = 400;			// Out of car/chopper/boat
 			roadKill = 500;				// :)
 			bigBird = 600;				// Roadkill, but with chopper/plane
-			chuteGreaterChopper = 600; 	// Someone flies into chute and chopper/plane explodes 			
+			chuteGreaterChopper = 600; 	// Someone flies into chute and chopper/plane explodes
 		};
 
 		class Bonus
 		{
-			// Bonus per full 100m 
+			// Bonus per full 100m
 			per100mDistance = 10;
 
 			// First blood after server restart
@@ -2308,10 +2308,10 @@ class CfgSettings
 		/**
 		 * Loadout of new bambi players
 		 *
-		 * (They will always spawn with a bambi overall - you cannot 
+		 * (They will always spawn with a bambi overall - you cannot
 		 * change the loadout uniform)
 		 */
-		loadOut[] = 
+		loadOut[] =
 		{
 			"ItemCompass",
 			"ItemMap",
@@ -2329,7 +2329,7 @@ class CfgSettings
 		parachuteSpawning = 1;
 
 		/**
-		 * Enables or disables halo jumping. Only applies 
+		 * Enables or disables halo jumping. Only applies
 		 * if parachute spawning is enabled.
 		 *
 		 * Remember that if you enable halo jump, it is adviced
@@ -2342,7 +2342,7 @@ class CfgSettings
 		haloJump = 1;
 
 		/**
-		 * Parachute drop height in meters. 
+		 * Parachute drop height in meters.
 		 */
 		parachuteDropHeight = 1000;
 
@@ -2399,8 +2399,8 @@ class CfgSettings
 		maximumNumberOfLootSpotsPerBuilding = 4;
 
 		/**
-		 * Exile spawns a random number of items per loot spot. This 
-		 * is the upper cap for that. So 3 means it could spawn 1, 2 
+		 * Exile spawns a random number of items per loot spot. This
+		 * is the upper cap for that. So 3 means it could spawn 1, 2
 		 * or 3.
 		 */
 		maximumNumberOfItemsPerLootSpot = 3;
@@ -2418,8 +2418,8 @@ class CfgSettings
 
 		/**
 		* Define a de-spawn radius here. That is the radius where loot
-		* is not near to players and their lifeTime expired. It will 
-		* also not spawn loot in a circle around the players to 
+		* is not near to players and their lifeTime expired. It will
+		* also not spawn loot in a circle around the players to
 		* prevent "flickering".
 		*
 		* 10m  = Minimum (thats better if a house is alone in the wild)
@@ -2431,7 +2431,7 @@ class CfgSettings
 		 * Time in seconds to define how long loot stays on the ground
 		 * after it has been spawned. Loot will despawn after this time
 		 * has passed and if no player is within the despawnRadius.
-		 * If the maximum life time expired, it will despawn loot 
+		 * If the maximum life time expired, it will despawn loot
 		 * regardless if players are nearby or not.
 		 */
 		minimumLifeTime = 300; // 5 minutes
@@ -2478,7 +2478,7 @@ class CfgSettings
 		* Vehicle ammount per grid
 		* kinda self explanitory
 		*/
-		vehiclesGridAmount = 2;
+		vehiclesGridAmount = 4;
 
 		/**
 		* Creates global markers for vehicle spawn tweeking,
@@ -2493,7 +2493,7 @@ class CfgSettings
 		maximumDamage = 0.9;
 
 		// Stuff to spawn on water
-		water[] = 
+		water[] =
 		{
 			"Exile_Boat_MotorBoat_Police",
 			"Exile_Boat_MotorBoat_Orange",
@@ -2509,7 +2509,7 @@ class CfgSettings
 		};
 
 		// Stuff to spawn on roads
-		ground[] = 
+		ground[] =
 		{
 			"Exile_Bike_QuadBike_Black",
 			"Exile_Bike_QuadBike_Blue",
@@ -2547,7 +2547,7 @@ class CfgSettings
 		 * 0 = off
 		 * 1 = on
 		 */
-		thermalVision = 0;		
+		thermalVision = 0;
 	};
 
 	class LocalityMonitor
@@ -2571,10 +2571,10 @@ class CfgSettings
 		interval = 30;
 
 		/*
-			Add the keyframes here. The server will pick one random, so if you want one 
+			Add the keyframes here. The server will pick one random, so if you want one
 			weather type of be more dominant compared to others, add it multiple times
 		*/
-		keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"}; 
+		keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"};
 
 		/*
 			This is a keyframe. Look up the BIKI to get more details about the parameters
@@ -2656,13 +2656,13 @@ class CfgSettings
 		*/
 
 		// This needs to match config.cfg serverCommandPassword
-		serverPassword = "";
+		serverPassword = "arcasProgram";
 
 		// Autolocks server until its ready to accept players
-		useAutoLock = 0;
+		useAutoLock = 1;
 
 		// Server will autoLock at that time before restart (minutes)
-		restartAutoLock = 3;
+		restartAutoLock = 5;
 
 		/*
 			Number of hours and minutes of your restart period.
@@ -2672,7 +2672,7 @@ class CfgSettings
 			{4, 0} = Every 4 hours
 			{1, 30} = Every one and a half hour (who the hell would do this?)
 		*/
-		restartTimer[] = {3, 0};
+		restartTimer[] = {4, 0};
 
 		/*
 			Kicks players before restart to prevent gear loss.
@@ -2681,7 +2681,7 @@ class CfgSettings
 			0 = off
 			1 = on
 		*/
-		useAutoKick = 0;
+		useAutoKick = 1;
 
 		/*
 			Number of minutes before the server kicks players that did
@@ -2696,13 +2696,13 @@ class CfgSettings
 			0 = off
 			1 = on
 		*/
-		useRestartMessages = 0;
+		useRestartMessages = 1;
 
 		/*
 			Number of minutes before the restart to inform your players.
 
 			Only use full minutes here. Value like 5.5 have not been tested.
 		*/
-		restartWarningTime[] = {15, 10, 5, 3}; 
+		restartWarningTime[] = {60,30,15, 10, 5, 3}; 
 	};
 };
