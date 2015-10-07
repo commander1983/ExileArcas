@@ -1,0 +1,14 @@
+name = "Exile Mod: ARCAS Mod Pack V.1";
+picture = "mod.paa";
+actionName = "Website";
+action = "http://www.arcasindustries.com";
+description = "The official modpack for Exile Mod: ARCAS";
+logo = "mod.paa";
+logoOver = "mod.paa";
+tooltip = "Exile Mod: ARCAS Mod Pack V.1";
+tooltipOwned = "Exile Mod: ARCAS Mod Pack V.1 Owned";
+overview = "";
+author = "WolfkillArcadia";
+overviewPicture = "mod.paa";
+overviewText = "";
+overviewFootnote = "Welcome to the ARCAS Program";
