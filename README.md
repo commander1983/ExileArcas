@@ -33,11 +33,11 @@
 ---
 
 ### What is ARCAS?
-Your country didn't want you, NATO didn't want you, but there is hope! The ARCAS program is always willing to accept new... blood. Interested in joining? Well, now that I think about it, you don't have a choice, don't you? You gave up that ability when you commited your crimes. Since you don't have a choice, welcome aboard! The ARCAS program will give you the essentials to get started but after that, you are on your own. We do have a deal with NATO though. If you complete the ARCAS program, you are free to go back to your home, wherever that shithole is. Good luck inmate, and welcome to Altis.
+Your country didn't want you, NATO didn't want you, but there is hope! The ARCAS program is always willing to accept new... blood. Interested in joining? Well, now that I think about it, you don't have a choice, don't you? You gave up that ability when you committed your crimes. Since you don't have a choice, welcome aboard! The ARCAS program will give you the essentials to get started but after that, you are on your own. We do have a deal with NATO though. If you complete the ARCAS program, you are free to go back to your home, wherever that shithole is. Good luck inmate, and welcome to Altis.
 
 ARCAS:<br>
 (arr - kay - as)<br>
-ARCAS program is a program developed by the Arcadia International Militia (AIM) in hopes to provide a easy transition from prison to Exile. However, the ARCAS project leads had a different idea. Give the exiled inmates access to a remote island, give them the means to kill each other, and give the remaining inmate a free pass home. Except, unknown to the inmates, there won't be surivors.
+ARCAS program is a program developed by the Arcadia International Militia (AIM) in hopes to provide a easy transition from prison to Exile. However, the ARCAS project leads had a different idea. Give the exiled inmates access to a remote island, give them the means to kill each other, and give the remaining inmate a free pass home. Except, unknown to the inmates, there won't be survivors.
 
 ### What do I need to play?
 ARCAS isn't remotely playable, but once it version 0.1 is released, you will need the following to join
