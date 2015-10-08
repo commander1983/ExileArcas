@@ -44,3 +44,17 @@ enableDebugConsole = 0;
 allowFunctionsRecompile = 0;
 
 #include "config.cpp"
+
+
+class cfgFunctions
+{
+	// LIT functions
+	#include "core\vip_cmn\fn\vip_cmn_fnc.hpp"
+	#include "core\vip_lit\fn\vip_lit_fnc.hpp"
+};
+
+
+class cfgSounds
+{
+	#include "core\vip_lit\resource\vip_lit_cfgSounds.hpp"
+};
