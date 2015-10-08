@@ -193,10 +193,7 @@ _rhs_magazines = [
 
 //explosives
 	"rhsusf_m112_mag",
-	"rhsusf_m112x4_mag",
-
-//mines
-	"rhs_mine_M19_mag"
+	"rhsusf_m112x4_mag"
 ];
 
 _rhs_items = [
@@ -214,9 +211,6 @@ _rhs_items = [
 	"lerca_1200_black",
 	"lerca_1200_tan",
 	"Leupold_Mk4",
-	//nvg
-	"rhsusf_ANPVS_14",
-	"rhsusf_ANPVS_15",
 
 	//uniforms
 	"rhs_uniform_cu_ocp",
@@ -425,14 +419,6 @@ _rhs_backpacks = [
 	"rhsusf_assault_eagleaiii_ucp",
 	"rhsusf_assault_eagleaiii_ocp",
 	"rhsusf_assault_eagleaiii_coy",
-	"rhsusf_falconii",
-
-	//weapon bags
-	"B_rhsusf_B_BACKPACK",
-	"RHS_M2_Gun_Bag",
-	"RHS_M2_Tripod_Bag",
-	"RHS_M2_MiniTripod_Bag",
-	"RHS_Mk19_Gun_Bag",
-	"RHS_Mk19_Tripod_Bag"
+	"rhsusf_falconii"
 
 ];
