@@ -11,8 +11,8 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
 -- Dumping database structure for exile
-CREATE DATABASE IF NOT EXISTS `exile_arcas` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `exile_arcas`;
+CREATE DATABASE IF NOT EXISTS `exile` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `exile`;
 
 
 -- Dumping structure for table exile.account
