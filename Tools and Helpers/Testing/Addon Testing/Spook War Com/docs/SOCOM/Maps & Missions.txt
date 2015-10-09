@@ -1,0 +1,34 @@
+SOCOM Approved Ops:
+========================
+-Map Supported: Altis
+-Map Supported: Stratis
+
+-Map Supported: ALL*
+
+*Works best and designed
+ for Altis/Stratis
+
+ Some unsupported maps
+ may have a few "issues"
+ or limit the type and
+ variety of Missions
+
+
+
+
+
+
+
+Mission Types:
+========================
+ -Acquisition
+ -Assassination
+ -Assault
+ -Destroy
+ -Reconnaissance
+ -Support
+ -Surveillance
+ -Special
+
+*Mission Locations and
+ specifics are RANDOM

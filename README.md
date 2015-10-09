@@ -21,6 +21,7 @@
 * Night Life Immersion Tweaks
 * Igiload/R3F Logistics
 * The Story of Raven Rock
+* Custom spawning system
 
 <br>
 **CURRENT MOD PACK:**

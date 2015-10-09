@@ -1,0 +1,68 @@
+******************************************************
+:::::::::::::::::: VQI-SOCOM v0.1 ::::::::::::::::::::
+------------------------------------------------------
+    SOCOM MISSION GENERATOR	by R. Von Quest
+------------------------------------------------------
+
+Special Operations Command. SOCOM conducts several covert 
+and clandestine missions, such as direct action, special
+reconnaissance, counter-terrorism, foreign internal 
+defense, unconventional warfare, psychological warfare,
+civil affairs, and counter-narcotics operations. 
+
+Each branch has a Special Operations Command that is 
+unique and capable of running its own operations, but 
+when the different special operations forces need to
+work together for an operation, SOCOM becomes the joint 
+component command of the operation, instead of a SOC of 
+a specific branch.	       	      
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-GAME:.......ARMA III	    -FORUMS:....aka "GOBLIN"
+-VERSION:....0.1.1	    -DATE:......29 JUNE 2015
+-STATUS:.....W.I.P.	    -SP/MP:.....SP:Y   MP:Y*
+			    -JIP/Ded:...JP:?   DS:?
+-MODs REQUIRED:
+ 1. CBA - by: CBA Team
+
+*Most elements work, a few minor "effects" might NOT,
+ Server PC should do the clicking
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+START:
+------
+1. Place BOTH Modules down; set options. Enjoy!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+USAGE:
+------
+1. Just Click to recieve a RANDOM Spec-Ops/Black Ops
+   style Mission.
+
+ * Generic X Missions also included. Role-Play as you
+   wish. Supports upto 5 random locations.
+
+   This was designed to be the epicenter that all other
+   module elements plug into.   W-I-P
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CRATES & CLASSNAMES:
+-------------------
+n/a
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTES:
+------
+Work-In-Progess. Few BUGS are expected.
+
+------------------------------------------------------
+:::::::::::::::::::::::: W-I-P :::::::::::::::::::::::
+******************************************************

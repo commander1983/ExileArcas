@@ -1,0 +1,53 @@
+HALO Approved Air Space:
+============================
+-Map Supported: Stratis
+-Map Supported: Altis
+-Map Supported: Chernarus
+-Map Supported: Utes
+-Map Supported: Proving Grounds
+-Map Supported: Takistan
+-Map Supported: Zargabad
+-Map Supported: Desert
+-Map Supported: Isla Duala
+-Map Supported: Shapur
+-Map Supported: Fallujah
+-Map Supported: Afghan Village
+-Map Supported: F.A.T.A Pakistan
+-Map Supported: Thirsk
+-Map Supported: Thirsk (winter)
+-Map Supported: N'Ziwasogo
+-Map Supported: Dariyah
+-Map Supported: Kalu Khan
+-Map Supported: Wamako
+-Map Supported: Sturko
+-Map Supported: Everon 2014
+-Map Supported: Isola Di Capraia
+
+*Let me know if you want a
+ specific map added
+
+ Technically ALL Maps will work 
+ fine to re-route the flight.
+ 
+**UPDATE: v0.0.9
+  ALL Maps should work perfect!
+
+
+
+Authorized H.A.L.O Aircraft:
+==============================
+-VQI XHR-1 "Vampyre" Drone
+
+
+
+
+---OR---(separate download)---
+
+-Lockheed MC-130JCommando II
+ (by SGT Fuller)
+
+-Boeing C-17 Globemaster III
+ (by SGT Fuller)
+
+-Ilyushin Il-76* (limited)
+ (note: removing support soon)

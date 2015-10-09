@@ -1,0 +1,161 @@
+//////////////////////////////////////////////
+W-I-P	      VQI-DeadDARK v0.0.1        W-I-P
+		by R. Von Quest
+//////////////////////////////////////////////
+
+
+D.A.R.K - Dynamic ArmA Roleplaying Kombat
+=========================================
+
+VQI DARK is the Enemy Spawn Sub-System for the 
+SpookWarCom Spec-Ops/Black-Ops Module.
+
+	* Work-In-Progress *
+
+It can also be used as a UNIT or Vehicle Spawn
+generic system in general. You can select ANY
+Faction to Spawn for EACH catergory. Which means
+for example: you could Spawn BLUFOR Infantry,
+AAF Armor, and OPFOR Helicopters. Mix & Match!
+
+The choice is yours.
+
+It was designed as the Enemy Occupation System
+for our games. But with the Options, you can
+setup the system any way you wish. You can select
+just ONE side for ALL catergories, or Mix them
+for real Ambient Combat and a WarZone.
+
+
+-------------------------------------------------
+UPDATE: The System can be fully configured by the
+player now. Below were the test defaults.
+-------------------------------------------------
+
+60% - Rogue Units:
+These are guerilla/black-ops units. They have 
+a high probability of seeking out buildings.
+(These are the "movie-style", non-armored guys)
+
+40% - Infantry:
+Standard Infantry Groups. Spawns random squads
+of both small and large normal military groups.
+	50% Standard Infantry (Weapon, Recon, etc)
+	30% Support Groups (Mortar, EOD, etc)
+	20% Spec-Ops (UAV, UGV, etc)
+
+20% - Vehicles:
+Spawns Standard Low/Non-Armored Vehicles, highest
+probability towards the Transports and Troops
+	65% Transports (80% x3 Troops [Infantry])*
+	25% MRAPs (MRAPs, Misc Vehicles, etc)
+	10% MRAPs (MRAPs with Turrents, HMG, etc)
+
+*NOTE: The Troops in the Transports, are selected
+from your INFANTRY Setting. Be advised.
+
+10% - Helicopters:
+Spawns random helicopters set with random tasks and
+waypoints. They may Patrol, SAD, Land w/ engine off, 
+Attack, etc. Lowest probability towards attack helos.
+	65% Multi-Role, Light, Transport (Orcas, etc)
+	25% Transport, Misc, etc (Taru, etc)
+	10% Attack Helicopters (Kajman, etc)
+
+5% - Armor
+Spawns the all the heavy equipment, Tanks, APCs, etc.
+High probability towards Lighter, Transport APCs.
+	65% APCs (wheeled, transport, etc)
+	25% APCs (Tracked, AA, etc)
+	10% Heavy Armor (Tanks, Artillery, etc)
+
+----------------------------------------------------
+
+** These Values can and will change (may already have)
+over each update. Remind me to update this file after
+a few updates. I will be adding MORE options and Units
+over time. At some point the Player will be able to
+select % values and other options. Stay Tuned!
+
+-----------------------------------------------------
+/////////////////////////////////////////////////////
+
+
+ENEMY REINFORCEMENTS:
+This sub-system is awesome! I've always wanted this in
+a game/sim. It simulates the enemys ability to call for
+help if it feels they need it.
+
+It also works with the entire focus of this SpookWarCom
+System ---> Spec-Ops/Black-Ops.
+
+It gives you WAY more incentive to stay SNEAKY & STEALTHY!
+The MORE you give yourself away, and the MORE you stay in
+direct combat with the enemy, the MORE LIKELY they will
+call for Back-Up Support, like a QRF Team, ParaTroops, and
+even ARTILLERY!
+
+If the Enemy greatly out-numbers you, they most likely
+will NOT make the Radio Call. If the Enemy does NOT
+KNOW about you, or CAN NOT find you, then again will
+NOT make the RADIO CALL.
+
+	Example #1: If you run into an Enemy Squad
+	out in the bush, and enage all units and can 
+	eliminate all of them quicky, NO ONE can make 
+	the Radio Call for help.
+
+	Example #2: Same group, you can not eliminate
+	that last unit or two. Its taking too much
+	time. You can expect that emergency Radio Call
+	for help soon!
+
+The Radio Call Timer is RANDOM. 30sec - 5min. If the
+squad/unit is small (random as well), AND they feel
+threatened, AND they KNOW good intel on you, the MORE
+likely they will make the call. This continues to
+increase over time AND increases the % with EACH Player!
+
+This also puts an emphesis on SMALL Spec-Ops/Black-Ops
+Teams for this style of gameplay. Make sense?
+
+The QRF (Quick Reaction Force) Teams are Trained Trackers!
+They have a VERY HIGH probablity of Tracking you down
+no matter where you go or hide. The more time that passes,
+this probabilty of them tracking you down decreases.
+
+*NOTE: The QRF Troops in the Transports, are selected
+from your INFANTRY Setting. Be advised.
+
+
+The Artillery is always launched with 2 RANDOM Smokes
+to mark the area BEFORE they send the Shells. If dark
+out, the area will also be lit by Flares as well.
+
+	~Inside Tip: If you can search dead bodies, you
+	can sometimes find good INTEL. Like for example
+	Radio Frequencies for these RADIO CALLs that
+	will qive you a Warning they made the call.  ;)
+
+
+////////////////////////////////////////////////////////
+
+INTEL:
+Which brings me to this. The Items and Intelligence part
+of this sub-system. If you set this Option to ON, then
+some enemy will have RANDOM Items and Intel on them.
+
+Another HUGE focus of this Spec-Ops/Black-Ops System is
+the Intel that can and will exist behind-enemy-lines!
+
+At this point in typing this, I'm NOT going to get into
+too much detail here. The Intel and Items you may or may
+not find will NOT be obvious as far as what they may or
+may not be used for. As an Operative working behind enemy
+lines, its upto YOU to figure it out and SOLVE the puzzles 
+and work the angles of being a "spook".
+
+
+To be continued...
+
+////////////////////////////////////////////////////////

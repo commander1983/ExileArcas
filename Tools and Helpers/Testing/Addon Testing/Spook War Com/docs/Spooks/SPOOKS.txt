@@ -1,0 +1,71 @@
+******************************************************
+::::::::::::::: VQI-SpookySpooks v0.1 ::::::::::::::::
+------------------------------------------------------
+	CIA SPOOKS		by R. Von Quest
+------------------------------------------------------
+
+The Special Activities Division (SAD) is a division in 
+the United States Central Intelligence Agency's (CIA) 
+National Clandestine Service (NCS) responsible for covert 
+operations known as "special activities". 
+
+Within SAD there are two separate groups, SAD/SOG for 
+tactical paramilitary operations and SAD/PAG for covert 
+political action.
+
+Special Operations Group (SOG) is the department within 
+SAD responsible for operations that include the collection 
+of intelligence in hostile countries and regions, and all 
+high threat military or intelligence operations with which 
+the U.S. government does not wish to be overtly associated.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-GAME:.......ARMA III	    -FORUMS:....aka "GOBLIN"
+-VERSION:....0.1.1	    -DATE:......29 JUNE 2015
+-STATUS:.....W.I.P.	    -SP/MP:.....SP:Y   MP:Y*
+			    -JIP/Ded:...JP:?   DS:?
+-MODs REQUIRED:
+ 1. none
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SOG Features:  W-I-P   ***EXPERIMENTAL***
+-------------
+ 
+1. E.O.D Qualified................True  (deact mines)
+2. Expanded Lung Capacity.........60.0  (still testing)
+3. Difficult to ID................ 7.0  (snipers are 3.5)
+4. Reduced Noise Sig.............. 0.02 (man is 0.05)
+5. Reduced Visual Sig............. 0.2  (man is 1)
+6. Priority....................... 1    (normal; blend in)
+7. Threat {1, 0.3, 0.1}........... Low  {soft,armour,air}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CRATES & CLASSNAMES:
+-------------------
+CIA SAD/SOG Operative.......VQI_SOG_Operative
+
+Plain Black & Gray BDUs.....Uniform_VQI_SOG_Basic1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAPS SUPPORTED:
+---------------
+n/a
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTES:
+------
+Work-In-Progess. Testing.
+
+------------------------------------------------------
+:::::::::::::::::::::::: W-I-P :::::::::::::::::::::::
+******************************************************

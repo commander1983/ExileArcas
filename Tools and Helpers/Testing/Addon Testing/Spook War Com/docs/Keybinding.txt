@@ -1,0 +1,34 @@
+User Custom Keybindings v0.0.9
+==============================
+
+IF custom options are availible, 
+they can be found in Main MENU:
+
+
+Menu >> Configure >> Controls >> Configure Addons
+
+1. HALO/Para............. [SHIFT] + [H]
+2. Scout/Sniper.......... [SHIFT] + [S]
+3. Combat Diver.......... tba
+4. E.O.D................. tba
+5. Spooks................ tba
+6. SOCOM................. tba
+7. D.A.R.K............... tba
+8. CORE.................. tba
+
+
+
+
+*NOTE: You MUST load a Map First, and assign the
+ Keys then. Settings will be saved from then on.
+
+ You may have to wait for several seconds for the
+ mod to load into the map/game before access.
+
+
+
+
+		*** Experimental ***
+
+I like idea of having just 1 KEY to remember for
+the FULL Menu option. More on this later...

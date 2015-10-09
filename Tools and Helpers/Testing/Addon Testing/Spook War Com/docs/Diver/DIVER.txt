@@ -1,0 +1,72 @@
+******************************************************
+:::::::::::::::: VQI-DevilDiver v0.0 :::::::::::::::::
+------------------------------------------------------
+	DIVER System		by R. Von Quest
+------------------------------------------------------
+
+	       ~ EXPERIMENTAL VERSION ~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-GAME:.......ARMA III	    -FORUMS:....aka "GOBLIN"
+-VERSION:....0.0.2	    -DATE:......29 June 2015
+-STATUS:.....W.I.P.	    -SP/MP:.....SP:Y   MP:Y*
+			    -JIP/Ded:...JP:?   DS:?
+-MODs REQUIRED:
+ 1. CBA - by: CBA Team
+
+*Most elements work, a few minor "effects" DO NOT 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+START:
+------
+1. Place BOTH Modules down; set options. Enjoy!
+   
+2. OR place System Module then name ANYTHING
+   VQI_DIVER_HMSPROTEUS to add Boarding Option
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+USAGE:
+------
+*Feel free to use Boat or Sub, or Any Item you prefer
+ for MENU/Role-Play if NOT using the Desk/Laptop
+
+1.Click 'Board Submarine'
+
+2.Click 'Request Transport'. Select location on Map.
+  Must be at least -30m deep for a Tactical Insertion.
+
+3.Gear-Up in SCUBA Equipment. Go down stairs into the
+  Diver Lock-Out Chamber (LOC).
+
+4.Go over to controls and Flood the Chamber. After it 
+  fills, Exit via the TOP HATCH.
+
+5.Swim over to the SDV and access the controls by its
+  nose to Unlock SDV, Use CRRCs, use Lighting, etc.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CRATES & CLASSNAMES:
+-------------------
+n/a
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAPS SUPPORTED:
+ALL with water/sea at a MINIMUM of -30m deep
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTES:
+------
+Work-In-Progess. Zillion BUGS are expected.
+
+------------------------------------------------------
+:::::::::::::::::::::::: W-I-P :::::::::::::::::::::::
+******************************************************

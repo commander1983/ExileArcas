@@ -1,0 +1,93 @@
+******************************************************
+::::::::::::::::: VQI-SpectreSniper v0.6 :::::::::::::
+------------------------------------------------------
+	Sniper System		by R. Von Quest
+------------------------------------------------------
+
+A Sniper is a highly trained marksman who operates alone, 
+in a pair, or with a sniper team to maintain close visual 
+contact with the enemy and engage targets from concealed 
+positions or distances exceeding the detection capabilities 
+of enemy personnel.
+
+In addition to marksmanship, military snipers are trained 
+in camouflage, field craft, infiltration, special 
+reconnaissance and observation, surveillance and target 
+acquisition.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-GAME:.......ARMA III	    -FORUMS:....aka "GOBLIN"
+-VERSION:....0.6.1	    -DATE:......29 JUNE 2015
+-STATUS:.....W.I.P.	    -SP/MP:.....SP:Y   MP:Y?
+			    -JIP/Ded:...JP:?   DS:N
+-MODs REQUIRED:
+ 1. CBA - by: CBA Team 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+START:
+------
+1. Place Module(s) down; set options. Enjoy!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+USAGE:
+------ 
+
+1. SniperBuddy: press COMPASS key/button; Custom Keys
+   also now availible in the Main Menu in v0.5
+
+   Main Readout for WIND is Hdg ~ Kts: ie (355* ~ 4kts)
+   (will redo for ACE3 support to supplement ATragMX)
+
+2. *Sniper Ghillie: (automatic) Don't Move for X time
+	*NOTE: THIS OPTION IS REMOVED IN V0.5
+	 You MUST be in your Blind/Hide for MAX EFFECT!
+
+3. Sniper Menu: [SHIFT] + [S]
+   Custom Keys set in Main Menu
+
+4. SniperHearing: (automatic); activated AFTER you build
+   your blind/hide. Improves over time IF NOT disturbed
+
+5. SniperSmell: press MENU key/button AFTER you build
+   your blind/hide. Improves over time IF NOT disturbed
+
+6. Expert Scout/Sniper: Practice & Training!
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CRATES & CLASSNAMES:
+-------------------
+Sniper Target.................VQI_Target_Black
+
+Sniper Footlocker.............VQI_Sniper_Box (the full crate)
+
+Questrel: Weather Meter.......VQI_SniperBuddy_1
+Sniper LogBook................VQI_SniperDataBook
+1966 "Hathcock" Boonie........VQI_BoonieHat_SE_Hathcock
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAPS SUPPORTED:
+---------------
+ALL
+
+*works best for Altis/Stratis, as it checks for and uses
+ the default arid mediterrainean enviroment
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTES:
+------
+Work-In-Progess. Several BUGS are expected.
+
+------------------------------------------------------
+:::::::::::::::::::::::: W-I-P :::::::::::::::::::::::
+******************************************************

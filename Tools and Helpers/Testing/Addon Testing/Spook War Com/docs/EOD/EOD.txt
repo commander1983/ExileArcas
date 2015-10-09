@@ -1,0 +1,83 @@
+******************************************************
+::::::::::::::::::: VQI-EerieEOD v0.1 ::::::::::::::::
+------------------------------------------------------
+	E.O.D. System		by R. Von Quest
+------------------------------------------------------
+
+	        ~ EXPERIMENTAL VERSION ~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-GAME:.......ARMA III	    -FORUMS:....aka "GOBLIN"
+-VERSION:....0.1	    -DATE:......14 DEC 2014
+-STATUS:.....W.I.P.	    -SP/MP:.....SP:Y   MP:Y*
+			    -JIP/Ded:...JP:?   DS:?
+-MODs REQUIRED:
+ 1. CBA - by: CBA Team
+
+*UNKNOWN in this ALPHA/TEST Version!!!! 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+START:
+------
+1. Place Module(s) down; set options. Enjoy!
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+USAGE:
+------
+
+*the IMS BombBuddy will NOT work if stuffed into your
+ Backpack. It needs to breathe. Vest, Uniform, or Slot
+
+*Use the ESD Safe Snips (black) to DISARM.
+
+*The 'safe area' to click to cut wire is VERY SMALL!
+ Likely will NOT WORK on other screen resolutions
+ other than 1920x1080.   W-I-P   Anyone Know???
+
+*This is only about 20% Finished. ALPHA/PUBLIC v0.0.1
+
+*TEST TEST TEST, BEFORE you use in a MISSION!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CRATES & CLASSNAMES:
+--------------------
+EOD BOMB BOX..................VQI_Bomb_Box (the full crate)
+
+I.M.S Detector................VQI_BombBuddy_1
+Diagonal Snips................VQI_TOOLS_DSNIPS
+ESD Safe Snips................VQI_TOOLS_ESD_DSNIPS
+Needle-Nose Pliers............VQI_TOOLS_NNPliers
+ESD SAfe N.Pliers.............VQI_TOOLS_ESD_NNPliers
+Phillips Screwdriver..........VQI_TOOLS_Screwdriver_Phillips
+Flathead Screwdriver..........VQI_TOOLS_Screwdriver_Flathead
+ESD Tweezers (round)..........VQI_TOOLS_ESD_Tweezers_R
+ESD Tweezers (fine)...........VQI_TOOLS_ESD_Tweezers_F
+ESD Tweezers (curved).........VQI_TOOLS_ESD_Tweezers_C
+ESD Spudger Set...............VQI_TOOLS_Spudger_Set
+Mini Inspection Mirror........VQI_TOOLS_Mini_inspection_Mirror
+ESD Safe Knife................VQI_TOOLS_Ceramic_Knife
+Fuse Crimper/Cutter...........VQI_TOOLS_Fuse_CrimperCutter
+Hex Ket Set...................VQI_TOOLS_Hex_Keys
+Wire: Alligator...............VQI_TOOLS_Alligator_Clips
+Wire: Jumpers.................VQI_TOOLS_Jumper_Wires
+Multi-Tool, SOG...............VQI_TOOLS_Multi_Tool
+Mini PryBar...................VQI_TOOLS_PryBar
+Reamer........................VQI_TOOLS_Reamer
+Multi-Meter...................VQI_TOOLS_MultiMeter
+Shock Initiator...............VQI_TOOLS_Shock_Initiator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTES:
+------
+Work-In-Progess. Zillion BUGS are expected.
+
+------------------------------------------------------
+:::::::::::::::::::::::: W-I-P :::::::::::::::::::::::
+******************************************************

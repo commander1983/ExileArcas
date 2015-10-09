@@ -1,0 +1,107 @@
+******************************************************
+::::::::::::::::: VQI-DemonDropper v0.1 ::::::::::::::
+------------------------------------------------------
+	H.A.L.O. System		by R. Von Quest
+------------------------------------------------------
+
+H.A.L.O. High Altitude Low Opening. Is a clandestine
+ParaJump technique for stealthy insertion of assets.
+
+The 'HALO' Jump is so high, that special equipment IS
+needed to survive the insertion; such as supplemental
+Oxygen and Thermal clothing. Often over 30,000ft! ASL.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-GAME:.......ARMA III	    -FORUMS:....aka "GOBLIN"
+-VERSION:....0.1.6	    -DATE:......29 JUNE 2015
+-STATUS:.....W.I.P.	    -SP/MP:.....SP:Y   MP:Y*
+			    -JIP/Ded:...JP:?   DS:?
+-MODs REQUIRED:
+ 1. CBA - by: CBA Team
+
+*Some 're-route' and EFX features NOT working in MP,
+ the main server PC must stay in control of mission
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+START:
+------
+1. Place BOTH Modules down; set options. Enjoy!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+USAGE:
+------
+*. Note#1 - You can check with the JumpMastre BEFORE
+   you decide to HALO to check where the Aircraft will
+   be over when you get the GREEN JumpLight.
+
+*. Note#2 - You can request a NEW Flight via Map-Click.
+   (Low-Level ParaJumps: NO H.A.L.O Equipment Needed if
+    using other supported aircraft; "Vampyre" HALO ONLY) 
+
+For H.A.L.O:
+1. Gear-up in your normal Combat Loadout. You will also
+   need the VQI: Jumpsuit, Helmet, and Re-Breather to
+   be able to jump. You can find these in Plane/Crate.
+
+     NOTE: Remember you can pack almost ANYTHING into 
+     your Backpack, including your Uniform and Vest.
+     You'll have to juggle things around some to pack
+     everything you want to jump into the AO with.
+
+     NOTE: For a SCUBA/HALO, wear the Wetsuit in
+     place of the SlipStream Jumpsuit. Jump as normal.
+     
+
+2. Check-in for your Inspection with the JumpMastre.
+   If you pass, you'll be issued the Parachute. Your 
+   Loadout in the Backpack will be saved on your FRONT.
+
+3. Board the Aircraft and check-in with the Crewmaster.
+   You'll transition into the Selected HALO Aircraft.
+
+   -To use the Altimeter, use your 'Watch' button/key;
+    HOLD for a few seconds to get it to pop on
+
+    	(Custom Keys can be set in the Main Menu)
+
+4. WAIT for the GO/Green Light --> JUMP!   Good Luck!!!
+   *If you jump too soon, you will be off-course.
+
+5. HALO/Para Menu: [SHIFT] + [H]
+
+
+
+
+***FOR BEST RESULTS, THE HOST PC SHOULD BE IN CHARGE!
+   THE HOST/SERVER SHOULD BE THE ONE RE-ROUTING PLANE,
+   AND BE IN THE JUMP PLANE WITH EVERYONE ELSE FOR MP.
+
+****MP ONLY has LIMITED SUPPORT.  Be Advised!  W-I-P
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CRATES & CLASSNAMES:
+--------------------
+'Vampyre' Drone.............VQI_XHR1_Vampyre (static only)
+
+HALO CRATE..................VQI_HALO_Crate (the full crate)
+
+Altimeter...................VQI_JumpBuddy_1
+A.A.D. .....................VQI_AAD
+HALO/SCUBA Rebreather.......Vest_VQI_Stingray
+HALO II Helmet..............Helmet_VQI_HALO
+Thermal Jumpsuit............Uniform_VQI_Slipstream
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTES:
+------
+Work-In-Progess. Some BUGS are still expected.
+
+------------------------------------------------------
+:::::::::::::::::::::::: W-I-P :::::::::::::::::::::::
+******************************************************

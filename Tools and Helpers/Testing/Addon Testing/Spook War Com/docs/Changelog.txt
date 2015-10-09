@@ -1,0 +1,347 @@
+v0.0.9 alpha
+========================
+-D.A.R.K-
+-NEW MODULE! (see docs folder)
+
+-SOCOM MISSION GENERATOR-
+-ADDED: Enemy Option Selection
+-ADDED: HALO Flight SITREP to Laptop
+
+-EOD-
+-ADDED: I.M.S Explosives Detector Audio
+-CHANGED: I.M.S in Slot or Vest ONLY
+
+-HALO-
+-FIXED: AAD Module Text to current setup
+-FIXED: All Maps supported in FULL!
+-CHANGED: Slight Re-Write (MC-130 ONLY)
+-Fixed: JumpCrew Chat Fixed
+
+-DIVER-
+-FIXED: Added old 'Request Transport'
+
+
+UPDATE: v0.0.9 alpha
+
+==========================
+
+Changelog:
+
+v0.0.9 alpha
+=======================
+-D.A.R.K-
+-NEW MODULE! (see docs folder)
+
+-SOCOM MISSION GENERATOR-
+-ADDED: Enemy Option Selection
+-ADDED: HALO Flight SITREP to Laptop
+
+-EOD-
+-ADDED: I.M.S Explosives Detector Audio
+-CHANGED: I.M.S in Slot or Vest ONLY
+
+-HALO-
+-FIXED: AAD Module Text to current setup
+-FIXED: All Maps supported in FULL!
+-CHANGED: Slight Re-Write (MC-130 ONLY)
+-FIXED: JumpCrew Chat Fixed
+-REMOVED: Vampyre, C-17, IL-76 Support
+
+
+-DIVER-
+-FIXED: Added old 'Request Transport'
+
+Plus numerous other changes and tweaks I can't remember!
+
+NOTICE: ONLY the MC-130J is currently supported right now in the HALO Mod. I will add back in the other aircraft later.
+
+I got sick of updating all aircraft for every change. For now, ONLY the MC-130J Commando II will be the TEST Aircraft.
+
+You can DL this Mod from the USAF Pack (see above).
+
+The re-write for HALO should be very stable for MP now. (I did NOT get around to Dedicated Server stuff yet) There
+
+will be NO airborne aircraft at the start if using the HALO Module. You have to file a Flight Plan with the JumpMaster
+
+to select where you what the GREEN/GO Signal. You can start to see where I'm going with this hopefully.
+
+The Ground Operation will be separate from the Airborne Operation. Allowing you to have one kind of plane (or none),
+
+on the ground, and a completely different one as the Jump Plane for different altitudes and options.
+
+So there will be a small delay until the next update to v0.1.0 Beta. That one will hopefully include the CORE Module,
+
+an updated HALO System, and my own C-130 that will be included so you won't have to download the USAF Mod
+
+which I think was 1.5 gigs (can't remember, but its huge).
+
+The big upgrade for this update is mostly the NEW D.A.R.K System. Its the Enemy Spawn System. Make sure you
+
+read the (rough draft) doc now included for a breif introduction to it.
+
+ALWAYS, always, keep in mind this is NOT a finished project. Not even close. There are several bugs, issues, and
+
+large sections of code that are not done yet. I have just the ONE Module (I think) to finish up, before I come back
+
+around and and start to put a lot more polish on it and tie everything togeather.
+
+I'm probably forgetting a bunch since I always rush the last minute stuff and upload then type this when I'm too tired.
+
+Anyhow... Let me know how this update works. Good luck!!!
+
+
+v0.0.8 alpha
+========================
+-HALO-
+-FIXED: ParaJump, player not in plane
+-FIXED: Night JumpLights for "Vampyre"
+-FIXED: Mis-timing on landing EFX
+-CHANGED: Updated ParaJump Script
+-CHANGED: reduced velocity out back of plane
+-CHANGED: Keybinding Initialization
+-CHANGED: Improved A.I. HALO/ParaJumps
+-CHANGED: Alt Range of C-130 25,000-35,000'
+-CHANGED: Alt Range of C-17 35,000-45,000'
+-CHANGED: Alt Range of XHR-1 45,000-65,000'
+-ADDED: USS Nimitz Option - C130 & "Vampyre"
+-ADDED: Gear/Weapons Crate to "Vampyre"
+-ADDED: Virtual Arsenal Crate to "Vampyre"
+-ADDED: Crate Options to Aircraft Module
+-ADDED: Delete JumpPlane Option to Module
+-ADDED: Max viewDistance during Jump, 10000m
+-ADDED: Cargo Test Crate Option to MC-130
+
+-COMBAT DIVER-
+-FIXED: Sub Surface Pick-Up Player
+-ADDED: Sub PickUp Option to Desk Module
+-ADDED: Keybinding Menu Placeholder [WIP]
+
+-SOCOM MISSION GENERATOR-
+-Fixed: ANY Player can use Mission Generator in MP!
+-CHANGED: SATCOM [still major WIP]
+
+-SNIPER-
+-Changed: Questrel; Default/ACE3 Option [WIP]
+-FIXED: Sniff Audio
+
+-EOD-
+-ADDED: Keybinding Menu Placeholder [WIP]
+ 
+
+
+
+
+
+v0.0.7 alpha
+========================
+-COMBAT DIVER-
+-ADDED: SDV Loadout Option: Standard
+-ADDED: SDV Loadout Option: Demolition
+-ADDED: SDV Loadout Option: Explosives
+-ADDED: SDV Loadout Option: Anti-Vehicle
+-ADDED: SDV Loadout Option: Scout/Sniper
+-FIXED: Floating Guns in SUB
+-FIXED: Menu Options in SUB
+-CHANGED: Menu Options in SUB
+
+-SOCOM MISSION GENERATOR-
+-FIXED: Generic X Conflict
+-FIXED: Disarm 'L1 Bomb Device' Menu
+
+-SCOUT/SNIPER-
+-FIXED: Questrel 'SniperBuddy'
+(ACE3 version coming soon)
+
+-SPOOK-
+-CHANGED: Removed Hand Grenade
+
+-HALO/ParaJump-
+-FIXED: Temporary Marker Option
+-FIXED: A.A.D. Wet-Jump (lowest alt setting)
+-REMOVED: Support for the old C-130 and C-17
+-CHANGED: More Altimeters to Jumpcraft
+-CHANGED: A.A.D. set to ASL (Above Sea Level)
+-CHANGED: A.A.D. Altitude Settings
+-ADDED: MC-130J Commando II Support (by fullerpj)
+-ADDED: C17 Globemaster III Support (by fullerpj)
+-ADDED: Over 20 Random Radio-Chatter Files
+-ADDED: Weapon-On-Back upon HALO/Para Inspection
+-ADDED: Depressurize Sound EFX in Aircraft
+-ADDED: Opening Door Sound EFX in Aircraft
+-ADDED: Aircraft Travel Time Option to Module
+-ADDED: Red Chemlight to Boot Option
+-ADDED: Auto-Door Open for BOTH MC-130J and C17
+-ADDED: More Freefall/Wind EFX
+-ADDED: Velocity out the Back of Jumpplane
+-ADDED: Gear/Weapons/Equipment Crate
+-ADDED: Virtual Arsenal Crate (C130 & C17)
+-ADDED: HALO/ParaJump Menu Keybinding (Shift + H)
+-ADDED: Standard Rebreather Supported (for T.F.R)
+-ADDED: A.I. Support (still WIP)
+(not in Plane yet, but AI will Jump with you)
+
+-E.O.D/Explosives-
+-FIXED: Bold/Black Text Conflict with Config Files
+
+
+
+
+
+
+
+v0.0.6 alpha
+========================
+-HALO-
+Fixed: AAD lowest manual setting (300ft/90m)
+
+
+
+
+
+========================
+v0.0.5 alpha
+========================
+-SpookWarCom-
+Tweaked: Numerous Code/Bug Fixes
+Fixed: Image & Addon Entry (1.38)
+
+-SOCOM-
+Fixed: Desk Placement/Collision Code
+Added: Generic Mission X (upto 5)
+
+-Diver-
+Fixed: Desk Placement/Collision Code
+Added: 2nd SDV on Submarine (left & right)
+
+-HALO-
+Fixed: Cargo Lighting (ground; XHR-1)
+Added: Altimeters to Airborne Craft
+Added: User Custom Keybindings
+Added: More Module Options!
+Added: Automatic Activation Device
+Added: Leather Thermal Jumpsuit; Onxy Black
+Changed: Increased Cargo Space in Jumpsuit
+
+-SNIPER-
+NEW: Complete Re-Write of SniperSystem!!!
+Added: User Custom Keybindings
+Added: 'Sparse' Sniper Blind/Hide Build
+Added: 'Normal' Sniper Blind/Hide Build
+Added: 'Thick' Sniper Blind/Hide Build
+Added: Debug/Testing Feedback Script; ALT+D
+Added: More Module Options!
+Tweaked: Simple Ballistics [WIP]
+
+-EOD-
+Added: Skeleton (if suicide bomber explodes)
+
+-EDITOR-
+Tweaked: Testing/Example Map
+
+
+
+
+
+========================
+v0.0.4 alpha
+========================
+-SOCOM-
+DESTROY: Increased Search Ranges
+DESTROY: Added 4 Missions
+
+
+
+
+========================
+v0.0.3 alpha
+========================
+-SOCOM-
+Fixed: ALL Arma Maps Friendly
+Fixed: Sink Trawler Mission
+Tweak: Several Missions
+Added: "Special" Category
+Added: 1 "Special" Mission
+
+-EDITOR-
+Changed: Test/Example Map
+(easier to use map/example)
+
+
+
+
+========================
+v0.0.2 alpha
+========================
+-SOCOM-
+Fixed: Several Missions
+Fixed: SATCOM (daylight optics)
+
+-HALO-
+Fixed: Config Sound Error
+Fixed: Config Animation Error
+
+-Diver-
+Fixed: Config Sound Error
+Fixed: Config Animation Error
+
+-Sniper-
+Fixed: Config System Text
+
+
+
+
+========================
+v0.0.1 alpha
+========================
+-SOCOM-
+NEW: Spec-Ops Mission Generator
+
+-Spooks-
+NEW: Added CIA: SAD/SOG Operative
+
+-HALO-
+Upgrade: Module System!
+Fixed: Conflicts w/ Diver/Sub Mod
+Added: XHR-1 Icon
+Fixed: Extreme Alt Temps Too Cold
+Fixed: Extra Rebreather sound in water
+EFX: Tweeked Open Chute EFX & Sound
+Added: Auto Door Open (2nd Red/Ready)
+Added: Wetsuits & Goggles to Crate
+Fixed: Moved Altimeter to outer layer
+
+-SNIPER-
+Upgrade: Module System!
+Fixed: Stablized Wind
+Targets: Unlimited Now Supported
+Added: Target Icons
+Removed: Fatigue Hit IF Ghillied-up
+Boonie: Added Hat Icon
+Boonie: Reduced Feather Size
+Questrel: Fixed Direction Error
+
+-EOD-
+Upgrade: Module System!
+Added: Suicide Bombers! (with options)
+Fixed: IMS did NOT work with only ONE 
+Type of explosive on Map (temp hotfix)
+
+-DIVER-
+Upgrade: Module System!
+Fixed: Player sometimes hurt in LOC
+Fixed: LOC Not Ready IF other Start
+Added: Sub Shallow/Deep Transports
+Added: Return to 'Ops Desk' from Sub
+
+
+
+
+
+========================
+v0.0.0 TEST
+========================
+-Public Testing Release
+-Testing Steam Workshop
+-Upgraded into Module System*
+
+*HALO, Sniper, EOD, Diver
