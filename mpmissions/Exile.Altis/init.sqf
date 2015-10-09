@@ -20,6 +20,9 @@ if (hasInterface) then {
 //    [] execVM "core\night\initNight.sqf";
 };
 
+//_________Helicrashes by Kellojo_________//
+[] execVM "core\custom\ETG_HeliCrashAndDropScript.sqf";
+
 //__________Combatant Check by AUSMD___________//
 notCombatant = false;
 execVM "core\custom\combatantcheck\AUSMD_combatantcheck.sqf";

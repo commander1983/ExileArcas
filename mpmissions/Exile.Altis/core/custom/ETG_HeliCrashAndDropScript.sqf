@@ -5,64 +5,7 @@
 //Release : 1.10.2015 ///////////////////////
 /////////////////////////////////////////////
 
-/////////
-//Usage//
-/////////
-
-This script allows you to add heli crashes and supply drops to your mission.
-
-////////////
-//Features//
-////////////
-
-- cargo drops
-- heli crashes
-- several tiers of loot
-- spawn position of the helis is randomly selected
-- type of cargo is randomly selected
-- type of heli is randomly selected
-- type of mission is randomly selected
-- drop off point/ crash point is randomly selected
-- adjustable loot tables
-- you can randomize the ammount of weapons,items,backpacks and magazines
-- time between drops is now configurable
-- toggable markers at the heli crashes/supply drops
-- loot can spawn inside of the crates and on the ground (selectable)
-- added more configurable options such as (helis,crates,loot on ground etc.)
-- added random time between drops/crashes function
-- added configurable altitude
-- added toggable fire at crashsites
-- added toggable AI to crashes and supply drops
-- added automatic deletion of crashes/supply drops
-
-/////////
-//Notes//
-/////////
-
-If you have any ideas for the script feel free to add me on Steam. My name is "Kellojo" ;).
-
-//////////////
-//Known Bugs//
-//////////////
-Here I will list every know bug that im currently working on.
-If you have any ideas how to fix them writing a comment or a private message would be nice ;).
-- Heli Crashes: sometimes the heli wrack spawns in the ground and the loot around it spawns in the ground...
-
-////////////////////////////////////////////////
-//Can I use this script for my mission/server?//
-////////////////////////////////////////////////
-
-Yes, you can use this script for your server aswell as you can modify it however you want.
-Its not necessary to give credit to me but it would be appreciated. :)
-
-//////////////////////////////////////////////
-//How can i run the script?---> Installation//
-//////////////////////////////////////////////
-
-Simply add these two lines below to your init.sqf and the script will do the rest for you.
-
-
-_nul = execVM "ETG_HeliCrashAndDropScript.sqf";
+execVM "ETG_HeliCrashAndDropScript.sqf";
 
 */
 
