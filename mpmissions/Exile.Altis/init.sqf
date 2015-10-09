@@ -20,6 +20,12 @@ if (hasInterface) then {
 //    [] execVM "core\night\initNight.sqf";
 };
 
+//__________Combatant Check by AUSMD___________//
+notCombatant = false;
+execVM "core\custom\combatantcheck\AUSMD_combatantcheck.sqf";
+execVM "core\custom\combatantcheck\AUSMD_AINonCombatantCheck.sqf";
+{if(!isPlayer _x) then {nul = [_x] execVM "core\custom\combatantcheck\AUSMD_AINonCombatantCheck.sqf";};} foreach allUnits;
+
 //__________Dyanmic Weather by tortuosit___________//
 /*
 RANGES:
