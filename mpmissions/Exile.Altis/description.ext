@@ -39,7 +39,7 @@ disabledAI = true;
 enableItemsDropping = 0;
 briefing = 0;
 debriefing = 0;
-allowFunctionsLog = 1;
+allowFunctionsLog = 0;
 enableDebugConsole = 0;
 allowFunctionsRecompile = 0;
 
