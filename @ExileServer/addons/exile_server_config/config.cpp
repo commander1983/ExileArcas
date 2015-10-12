@@ -2255,7 +2255,7 @@ class CfgSettings
 		*/
 		class Frags
 		{
-			bambi = -500;				// Bambi slayers
+			bambi = -1000;				// Bambi slayers
 			friendlyFire = -100;		// For party members
 			standard = 100;				// Normal kill
 			letItRain = 150;			// MG, also vehicle MGs
@@ -2443,7 +2443,7 @@ class CfgSettings
 		 * 1 = Yes
 		 * 0 = No
 		 */
-		notifyPlayer = 1;
+		notifyPlayer = 1;  //Leaving this until release.
 
 		/**
 		 * Defines the radius around trader cities where the system should
@@ -2478,7 +2478,7 @@ class CfgSettings
 		* Vehicle ammount per grid
 		* kinda self explanitory
 		*/
-		vehiclesGridAmount = 2;
+		vehiclesGridAmount = 4;
 
 		/**
 		* Creates global markers for vehicle spawn tweeking,
@@ -2530,7 +2530,13 @@ class CfgSettings
 			"Exile_Car_Offroad_Rusty3",
 			"Exile_Car_Van_Black",
 			"Exile_Car_Van_Box_Black",
-			"Exile_Car_Van_Fuel_Black"
+			"Exile_Car_Van_Fuel_Black",
+			"rhsusf_m1025_w",
+			"rhsusf_m998_w_2dr",
+			"rhs_tigr_msv",
+			"rhs_tigr_3camo_msv",
+			"rhs_tigr_ffv_msv",
+			"RHS_UAZ_MSrV_01"
 		};
 
 		/**
@@ -2539,7 +2545,7 @@ class CfgSettings
 		 * 0 = off
 		 * 1 = on
 		 */
-		nightVision = 1;
+		nightVision = 0;
 
 		/**
 		 * Enables or disables thermal optics on ALL vehicles
@@ -2696,7 +2702,7 @@ class CfgSettings
 			0 = off
 			1 = on
 		*/
-		useRestartMessages = 0;
+		useRestartMessages = 1;
 
 		/*
 			Number of minutes before the restart to inform your players.
