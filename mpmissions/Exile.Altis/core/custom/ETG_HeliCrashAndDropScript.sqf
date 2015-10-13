@@ -379,6 +379,11 @@ _ETG_AIUnits = ["O_recon_medic_F", "O_Soldier_lite_F","O_Soldier_GL_F","O_Soldie
 			//Spawn AI if wanted
 				if (_AI_Crash) then {
 					_HelicrashUnits = [(position _ETG_HeliCrashLootBoxes1), EAST, _ETG_AIUnits,[],[],[],[],[],180] call BIS_fnc_spawnGroup;
+					//Wolf's edit
+					// Because the helicopter just crashed, why would the units be NOT hurt. ;)
+					{
+						_x setDamage random 0.5;
+					} forEach _HelicrashUnits
 					//Add waypoint for the AI
 					_HeliCrashGroupLeader = leader _HelicrashUnits;
 					_HeliCrashUnitsGroup = group _HeliCrashGroupLeader;

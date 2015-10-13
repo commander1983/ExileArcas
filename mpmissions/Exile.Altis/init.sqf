@@ -17,19 +17,18 @@
 
 //_________Nightime by WolfkillArcadia_________//
 if (hasInterface) then {
-//    [] execVM "core\night\initNight.sqf";
+    [] execVM "core\night\initNight.sqf";
 };
+
+//_________Color Correction by Haleks_________//
+atmo_correction = ppEffectCreate ["colorCorrections", 1501];
+atmo_correction ppEffectEnable true;
+atmo_correction ppEffectAdjust [0.87, 1, 0, [0.1,0.1,0.2,-0.27], [0.77, 0.62, 0.67, 0.24], [0.487, 0.487, 0.114, 0.0]];
+atmo_correction ppEffectCommit 0;
 
 //_________Helicrashes by Kellojo_________//
 [] execVM "core\custom\ETG_HeliCrashAndDropScript.sqf";
 
-//__________Combatant Check by AUSMD___________//
-/*
-notCombatant = false;
-execVM "core\custom\combatantcheck\AUSMD_combatantcheck.sqf";
-execVM "core\custom\combatantcheck\AUSMD_AINonCombatantCheck.sqf";
-{if(!isPlayer _x) then {nul = [_x] execVM "core\custom\combatantcheck\AUSMD_AINonCombatantCheck.sqf";};} foreach allUnits;
-*/
 
 //__________Dyanmic Weather by tortuosit___________//
 /*
