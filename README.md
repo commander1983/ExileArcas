@@ -1,15 +1,16 @@
-# Welcome to the ARCAS Program, inmate!
+# Welcome to the Exile Mod: ARCAS Program!
 
 ### ARCAS Program Features/Mod Pack
 *The below lists will change when I come up with more ideas or implement more things.*
 <br>
 
 **CURRENT FEATURES:**
-
+* Dynamic Weather System
+* Night Life Immersion Tweaks
+* IgiLoad
 
 **PROPOSED FEATURES:**
 <br>*(includes everything above)*
-* Dynamic Weather System
 * 4 hour server restart, 24 hour accelerated time (1h = 6h in game)
 * Dynamic/static/random AI
 * Dynamic AI missions
@@ -18,25 +19,44 @@
 * 5 safe trader cities
 * 10 not protected dedicated/combination traders
 * Custom repair script
-* Night Life Immersion Tweaks
-* Igiload/R3F Logistics
 * The Story of Raven Rock
 * Custom spawning system
 
 <br>
 **CURRENT MOD PACK:**
+* Blastcore 
+* CBA with JointRails
+* Enhanced Movement
+* FUTARM Camo
+* HLC Weapons (AR15, AK, MP5, AWM, SAW)
+* L_Axemann's Align, Supress, and Twitch
+* Medium Utility Helicopters
+* PG Services
+* Proman Vehicle View
+* RHS Russian Federation Armed Forces
+* RHS United States Armed Forces
+* Robert Hammer Pistols
+* Robert Hammer Accessories
+* Scorch's Inventory Items (Modified with Exile values)
+* TFA Naval Special Warfare
+* TAO Fold Map
+* Weapon Eventhandler Framework
 
 
 
 **PROPOSED MOD PACK:**
 <br>*(includes everything above)*
+* ACE3 (Heavily Modified)
+* Task Force Radio (Unsure about this)
+* Repair Items (Community items from DayZ)
+
 
 ---
 
 ### What is the ARCAS Program?
 Your country didn't want you, NATO didn't want you, but there is hope! The ARCAS program is always willing to accept new... blood. Interested in joining? Well, now that I think about it, you don't have a choice, don't you? You gave up that ability when you committed your crimes. Since you don't have a choice, welcome aboard! The ARCAS program will give you the essentials to get started but after that, you are on your own. We do have a deal with NATO though. If you complete the ARCAS program, you are free to go back to your home, wherever that shithole is. Good luck inmate, and welcome to Altis.
 
-ARCAS:<br>
+##### ARCAS:<br>
 (arr - kay - as)<br>
 ARCAS program is a program developed by the Arcadia International Militia (AIM) in hopes to provide a easy transition from prison to Exile. However, the ARCAS project leads had a different idea. Give the exiled inmates access to a remote island, give them the means to kill each other, and give the remaining inmate a free pass home. Except, unknown to the inmates, there won't be survivors.
 
@@ -67,10 +87,13 @@ Since I cannot put a copyright on a mission/server file, I've created a list bel
 ### Development
 For everything below, please try to follow "My Wishes and Requests"
 * Feel free to submit pull requests and merges
-* Feel free to fork ARCAS
+* Feel free to fork Exile Mod: ARCAS program
+* Feel free to clone Exile Mod: ARCAS program
 * If you have ideas or questions, please open a ticket on GitHub
 * If you would like to help develop, feel free to email me at WolfkillArcadia@gmail.com
 
+### Disclaimer
+Everything offered in this repository is offered with NO WARRANTY. I am not responsible for any damages these files may cause either that being physical, emotional, or anything in between. I am not responsible if these files run off with your wife or husband or happen to kill your dog. I do offer support for any bugs, features, or setup that I have added to this server/mission files. If you want any issues or questions, open a ticket on Github, email me at "wolfkillarcadia@gmail.com", or add me on steam: WolfkillArcadia.
 
 ### Copyright
 Copyright (c) 2015 WolfkillArcadia
