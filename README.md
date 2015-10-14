@@ -1,6 +1,6 @@
-# Welcome to ARCAS!
+# Welcome to the ARCAS Program, inmate!
 
-### ARCAS Features/Mod Pack
+### ARCAS Program Features/Mod Pack
 *The below lists will change when I come up with more ideas or implement more things.*
 <br>
 
@@ -33,7 +33,7 @@
 
 ---
 
-### What is ARCAS?
+### What is the ARCAS Program?
 Your country didn't want you, NATO didn't want you, but there is hope! The ARCAS program is always willing to accept new... blood. Interested in joining? Well, now that I think about it, you don't have a choice, don't you? You gave up that ability when you committed your crimes. Since you don't have a choice, welcome aboard! The ARCAS program will give you the essentials to get started but after that, you are on your own. We do have a deal with NATO though. If you complete the ARCAS program, you are free to go back to your home, wherever that shithole is. Good luck inmate, and welcome to Altis.
 
 ARCAS:<br>
