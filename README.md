@@ -1,5 +1,21 @@
-# Welcome to the Exile Mod: ARCAS Program!
+<p align="center">
+	<h1>Welcome to the Exile Mod: ARCAS Program!</h1>
+</p>
 
+<p align="center">
+    <a href="https://github.com/WolfkillArcadia/ExileArcas/releases">
+        <img src="https://img.shields.io/badge/version-0.1-blue.svg?style=flat-square" alt="ARCAS Program Version">
+    </a>
+    <a href="https://github.com/WolfkillArcadia/ExileArcas/issues">
+        <img src="https://img.shields.io/github/issues-raw/WolfkillArcadia/ExileArcas.svg?style=flat-square" alt="ARCAS Program Issues">
+    </a>
+	<a href="https://github.com/WolfkillArcadia/ExileArcas/issues">
+        <img src="https://img.shields.io/badge/ideas-1%2C000%2C000-orange.svg?style=flat-square" alt="ARCAS Program Ideas">
+    </a>
+	<a href="https://github.com/WolfkillArcadia/ExileArcas/issues">
+        <img src="https://img.shields.io/badge/time-none-red.svg?style=flat-square" alt="Developer Free Time">
+    </a>
+</p>
 ### ARCAS Program Features/Mod Pack
 *The below lists will change when I come up with more ideas or implement more things.*
 <br>
@@ -24,7 +40,7 @@
 
 <br>
 **CURRENT MOD PACK:**
-* Blastcore 
+* Blastcore
 * CBA with JointRails
 * Enhanced Movement
 * FUTARM Camo
