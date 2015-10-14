@@ -1,13 +1,8 @@
-<p align="center">
-	<h1>Welcome to the Exile Mod: ARCAS Program!</h1>
-</p>
+<h1><center>Welcome to <br/>Exile Mod: ARCAS Program</center></h1>
 
 <p align="center">
     <a href="https://github.com/WolfkillArcadia/ExileArcas/releases">
         <img src="https://img.shields.io/badge/version-0.1-blue.svg?style=flat-square" alt="ARCAS Program Version">
-    </a>
-    <a href="https://github.com/WolfkillArcadia/ExileArcas/issues">
-        <img src="https://img.shields.io/github/issues-raw/WolfkillArcadia/ExileArcas.svg?style=flat-square" alt="ARCAS Program Issues">
     </a>
 	<a href="https://github.com/WolfkillArcadia/ExileArcas/issues">
         <img src="https://img.shields.io/badge/ideas-1%2C000%2C000-orange.svg?style=flat-square" alt="ARCAS Program Ideas">
