@@ -40,7 +40,7 @@
 * Enhanced Movement
 * FUTARM Camo
 * HLC Weapons (AR15, AK, MP5, AWM, SAW)
-* L_Axemann's Align, Supress, and Twitch
+* L_Axemann's Align, Suppress, and Twitch
 * Medium Utility Helicopters
 * PG Services
 * Proman Vehicle View
