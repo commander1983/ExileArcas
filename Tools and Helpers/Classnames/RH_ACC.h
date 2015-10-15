@@ -39,10 +39,8 @@ RH_cmore
 RH_LTdocter
 RH_LTdocterl
 RH_zpoint
-RH_pas13cl
-RH_pas13cm
-RH_pas13cmg
-RH_pas13ch
+
+//RAILED (flashlights/lasers)
 RH_peq15
 RH_peq15_top
 RH_peq15b
@@ -51,6 +49,8 @@ RH_peq2
 RH_peq2_top
 RH_SFM952V
 RH_SFM952V_tan
+
+//MUZZLES
 RH_qdss_nt4
 RH_qdss_nt4_tg
 RH_qdss_nt4_des

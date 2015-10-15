@@ -596,6 +596,3 @@
 "RHS_CH_47F_light"
 "RHS_UH60M"
 "RHS_Mi8amt_civilian"
-
-
-//Notes: If thermals are disabled on the server, then the Javelin which is not on this list would be useless as it requires thermal lock to fire.

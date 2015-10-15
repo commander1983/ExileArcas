@@ -1,9 +1,0 @@
-EWK_M1151_M2_Deployment
-EWK_M1151_M2_Deployment_Jtac
-EWK_HMMWV_Light
-EWK_HMMWV_Medevac
-EWK_M997A2_Ambulance
-EWK_M997A2_Ambulance_Tan
-EWK_M998_Terminal
-EWK_M1114_Armored
-EWK_M998A2_sov
