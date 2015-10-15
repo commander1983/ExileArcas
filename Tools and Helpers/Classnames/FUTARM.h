@@ -1,0 +1,30 @@
+//Backpack Classname List:
+
+FUTARM_Kitbag
+FUTARM_Kitbag_AT
+FUTARM_Kitbag_MED
+FUTARM_Kitbag_ENG
+
+//Vehicle Classname List:
+
+FUTARM_MRAP_UNARM
+FUTARM_MRAP_HMG
+FUTARM_MRAP_GMG
+
+//Gear Classname List:
+
+FUTARM_CombatUniform_mcam
+FUTARM_CombatUniform_Tee
+FUTARM_CombatUniform_Full
+FUTARM_PlateCarrier1_rgr
+FUTARM_PlateCarrier_AT
+FUTARM_PlateCarrier_MED
+FUTARM_PlateCarrier_ENG
+FUTARM_PlateCarrier_GL
+FUTARM_Rangemaster
+FUTARM_HelmetB
+FUTARM_Helmet_AT
+FUTARM_Helmet_MED
+FUTARM_Helmet_ENG
+FUTARM_MilCap
+FUTARM_Boonie
