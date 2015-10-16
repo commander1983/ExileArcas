@@ -5,7 +5,7 @@
  	Author(s): WolfkillArcadia
     Copyright (c) 2015 WolfkillArcadia
 
- 	Description: Once triggered from a players XM8, this script will repair the corresponding parts and remove them from the players/vehicles inventory.
+ 	Description: Once triggered scroll menu, this script will repair the corresponding parts and remove them from the players/vehicles inventory.
 
     Usage:
     [hitpoint, vehicle, player] call wka_repairVehicle;
