@@ -6,26 +6,26 @@
 // Weapons
 ///////////////////////////////////////////////////////////////////////////////
 
-class hlc_rifle_l1a1slr                        { quality = 2; price = 600; };
-class hlc_rifle_SLR                        { quality = 2; price = 600; };
-class hlc_rifle_STG58F                         { quality = 2; price = 600; };
-class hlc_rifle_FAL5061                        { quality = 2; price = 600; };
-class hlc_rifle_c1A1                           { quality = 2; price = 600; };
-class hlc_rifle_LAR                        { quality = 2; price = 600; };
-class hlc_rifle_SLRchopmod                         { quality = 2; price = 600; };
-class hlc_rifle_falosw                         { quality = 2; price = 600; };
-class hlc_rifle_osw_GL                         { quality = 2; price = 600; };
-class hlc_rifle_g3sg1                          { quality = 2; price = 600; };
-class hlc_rifle_psg1                           { quality = 2; price = 600; };
-class hlc_rifle_g3a3                           { quality = 2; price = 600; };
-class hlc_rifle_g3ka4                          { quality = 2; price = 600; };
-class HLC_Rifle_g3ka4_GL                           { quality = 2; price = 600; };
-class hlc_rifle_hk51                           { quality = 2; price = 600; };
-class hlc_rifle_hk53                           { quality = 2; price = 600; };
-class hlc_rifle_M14                        { quality = 2; price = 600; };
-class hlc_rifle_M21                        { quality = 2; price = 600; };
-class hlc_rifle_M14DMR                         { quality = 2; price = 600; };
-class hlc_rifle_m14sopmod                          { quality = 2; price = 600; };
+hlc_rifle_l1a1slr
+hlc_rifle_SLR
+hlc_rifle_STG58F
+hlc_rifle_FAL5061
+hlc_rifle_c1A1
+hlc_rifle_LAR
+hlc_rifle_SLRchopmod
+hlc_rifle_falosw
+hlc_rifle_osw_GL
+hlc_rifle_g3sg1
+hlc_rifle_psg1
+hlc_rifle_g3a3
+hlc_rifle_g3ka4
+HLC_Rifle_g3ka4_GL
+hlc_rifle_hk51
+hlc_rifle_hk53
+hlc_rifle_M14
+hlc_rifle_M21
+hlc_rifle_M14DMR
+hlc_rifle_m14sopmod
 
 hlc_lmg_minimipara
 hlc_lmg_minimi
